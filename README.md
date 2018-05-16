@@ -1,4 +1,12 @@
 # Statistical-Inference-Data-GSS-with-R-
+
+
+RPubs_Peer_Graded Assignment
+
+
+http://rpubs.com/Michelletan78/389848
+
+
 Part 1: Data
 (some of below comments was taken from the GSS website and/or other online sources)
 The General Social Survey
